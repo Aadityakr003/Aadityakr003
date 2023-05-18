@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Aditya;Nice+to+meet+you)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently worling on Web3
+- 🌱 I’m currently working on Web3
 - 💞️ I’m looking to collaborate on Web Projects
 
 [![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadityakr003&count_private=true&show_icons=true&theme=radical)](https://github.com/Aadityakr003/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityakr003&theme=radical&show_icons=true&count_private=true)](https://github.com/Aadityakr003/github-readme-stats)
