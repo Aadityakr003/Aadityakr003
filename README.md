@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Aditya;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Aditya Singh;Nice+to+meet+you)](https://git.io/typing-svg)
 
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently working on Web3
-- 💞️ I’m looking to collaborate on Web Projects
+- 👀 I’m interested in Blockchain Development
+- 🌱 I’m currently working on Solidity Smart Contract
+- 💞️ I’m looking to collaborate on Web3 Projects
 
-[![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadityakr003&count_private=true&show_icons=true)](https://github.com/Aadityakr003/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityakr003&show_icons=true&count_private=true)](https://github.com/Aadityakr003/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadityakr003&count_private=true&show_icons=true)](https://github.com/Aadityakr003/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityakr003&show_icons=true&count_private=true)](https://github.com/Aadityakr003/github-readme-stats)
 
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
