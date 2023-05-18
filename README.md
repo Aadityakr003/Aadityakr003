@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Aditya_Singh;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Aditya+Singh;Nice+to+meet+you)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently working on Solidity Smart Contract
